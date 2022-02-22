@@ -3,8 +3,7 @@
   "description": "Registro eventos Procesos",
   "main": "NewActivity.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "21.4.1",
-    "UiPath.UIAutomation.Activities": "21.4.4"
+    "UiPath.System.Activities": "21.4.1"
   },
   "webServices": [],
   "entitiesStores": [],
